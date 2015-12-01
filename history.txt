@@ -1,0 +1,281 @@
+   61  git checkout v0.0.1
+   62  git checkout master
+   63  git rm index2.html index3.html 
+   64  git add homework
+   66  git add homework
+   67  git commit -m "removed index2.html & index3.html"
+   69  git commit -m "removed index2.html & index3.html"
+   70  git push v0.0.1
+   71  git checkout v0.0.1
+   72  git push v0.0.1
+   73  git push origin v0.0.1
+   74  git push orign master
+   75  git push origin master
+   80  mkdir git
+   82  mkdir git
+   83  cp ~Derek/index.html ~/Desktop/git
+   84  cp ~/Desktop/git/index.html ~/Desktop/git/index1.html
+   85  cp ~/Desktop/git/index.html ~/Desktop/git/index2.html
+   86  cp ~/Desktop/git/index.html ~/Desktop/git/index3.html
+   88  cp style.css js.js ~/Desktop/git
+   89  cd git
+   90  git clone https://github.com/imD3r3k/homework.git
+  102  git add js img css
+  103  git commit -m "added js img css"
+  104  git pull --no-edit
+  105  git push origin master
+  106  cp ~/Desktop/git/index1.html ~/Desktop/git/homework/
+  107  cp ~/Desktop/git/index2.html ~/Desktop/git/homework/
+  108  cp ~/Desktop/git/index3.html ~/Desktop/git/homework/
+  109  rm ~/Desktop/git/*.html
+  110  mv ~/Desktop/git/style.css ~/Desktop/git/homework/css/
+  111  mv ~/Desktop/git/js.js ~/Desktop/git/homework/js/
+  112  git status
+  114  git add css img index1.html index2.html index3.html js
+  115  git commit -m "added everything"
+  116  git pull --no-edit
+  117  git push origin master
+  119  git add index1.html 
+  120  git commit -m "added nanoed index1.html"
+  121  git pull
+  122  git push origin master
+  123  git branch v0.0.1
+  124  git checkout v0.0.1
+  128  git add css img index1.html js/
+  129  git commit -m "pushing to v0.0.1"
+  130  git push origin v0.0.1
+  131  git checkout v0.0.1
+  132  git rm -r index2.html 
+  133  git commit -m "removed index2.html"
+  134  git pull
+  135  git push origin v0.0.1
+  140  mkdir git
+  141  cp ~Derek/index.html ~/Desktop/git
+  142  cp ~/Desktop/git/index.html ~/Desktop/git/index1.html
+  143  cp ~/Desktop/git/index.html ~/Desktop/git/index2.html
+  144  cp ~/Desktop/git/index.html ~/Desktop/git/index3.html
+  146  cp ~/Desktop/style.css js.js ~/Desktop/git
+  147  git clone https://github.com/imD3r3k/homework.git
+  148  cd git
+  151  clone https://github.com/imD3r3k/homework.git
+  152  git clone https://github.com/imD3r3k/homework.git
+  164  git add js img css
+  165  git commit -m "added js img css"
+  166  git push origin master
+  167  cp ~/Desktop/git/index1.html ~/Desktop/git/homework/
+  168  cp ~/Desktop/git/index2.html ~/Desktop/git/homework/
+  169  cp ~/Desktop/git/index3.html ~/Desktop/git/homework/
+  170  rm ~/Desktop/git/*.html
+  171  mv ~/Desktop/git/style.css ~/Desktop/git/homework/css/
+  172  mv ~/Desktop/git/js.js ~/Desktop/git/homework/js/
+  173  git status
+  175  git add index1.html 
+  176  git commit -m "nanoed index1.html"
+  177  git pull --no-edit
+  178  git push origin master
+  179  git branch v0.0.1
+  180  git rm -r index1.html 
+  181  git push origin master 
+  182  git rm -r index1.html
+  183  git pull
+  185  git push origin master
+  186  git commit -m "delete index1.html"
+  187  git push origin master
+  192  git add css index1.html index2.html index3.html img js
+  193  git commit -m "added everything"
+  194  git pull
+  195  git push origin master
+  197  git add index1.html 
+  198  git commit -m "edited index1.html"
+  199  git pull
+  200  git push origin master
+  201  git branch v0.0.1
+  202  git pull
+  203  git branch v0.0.1
+  204  git rm branch v0.0.1
+  205  git checkout v0.0.1
+  206  git pull
+  207  git branch v0,0,1
+  208  git branch v0.0.1
+  209  cd ~/Desktop/git/homework/
+  210  git branch v0.0.1
+  211  cd ~/Desktop/git/homework/
+  212  git checkout master
+  213  git branch v0.0.1
+  214  git merge origin master
+  215  cd ~/Desktop/git
+  224  mkdir git
+  225  cp ~Derek/index.html ~/Desktop/git
+  226  cp ~/Desktop/git/index.html ~/Desktop/git/index1.html
+  227  cp ~/Desktop/git/index.html ~/Desktop/git/index2.html
+  228  cp ~/Desktop/git/index.html ~/Desktop/git/index3.html
+  230  cp style.css js.js ~/Desktop/git
+  231  cd git
+  232  git clone https://github.com/imD3r3k/exercise.git
+  244  git add js img css
+  245  git commit -m "added js img css"
+  246  git push origin master
+  248  cp index1.html index2.html index3.html ~/Desktop/git/exercise/
+  249  cd git
+  251  mv style.css ~/Desktop/git/exercise/css/
+  252  mv js.js ~/Desktop/git/exercise/js/
+  253  git dtatus
+  254  git status
+  256  git status
+  258  git add css img js index1.html index2.html index3.html 
+  259  git commit -m "added everything"
+  260  git pull
+  261  git push origin master
+  263  git add index1.html 
+  264  git commit -m "edited index1.html"
+  265  git pull --no-edit
+  266  git push origin master
+  267  git branch v0.0.1
+  268  git checkout v0.0.1
+  270  git commit -m "removed index2.html & index3.html"
+  271  git push origin v0.0.1
+  273  git rm index2.html index3.html 
+  274  git commit -m "removed index2.html & index3.html"
+  275  git push origin v0.0.1
+  276  git checkout master
+  280  cp *.png ~/Desktop/git/exercise/img/
+  281  git cp *.png 
+  282  cd git
+  284  cp *.png ~/Desktop/git/exercise/img/
+  286  cd git
+  288  cp *.png ~/Desktop/git/exercise/img/
+  289  cd ~/Desktop/git/exercise/
+  290  git add img 
+  291  git commit -m "snapshots added"
+  292  git pull
+  293  git push origin master
+  294  git checkout v0.0.1
+  295  git merge master
+  296  git commit -m "merged master"
+  297  find ~/Desktop/git/exercise/*.png
+  298  find ~/Desktop/git/exercise/ *.png
+  300  find ~/git "*.png"
+  303  find ~/Desktop/git/ -name "*.png"
+  304  find ~/Desktop/git/ -name "*.html"
+  309  cp git ~/Desktop/backup/
+  310  cp /git ~/Desktop/backup/
+  311  cp ~/Desktop/git ~/Desktop/backup/
+  312  cp r git backup
+  313  cp -r git backup
+  316  cp -r git backup
+  323  mv pngfind.txt htmlfind.txt ~/Desktop/git/exercise/
+  324  cd ~/Desktop/git/exercise/
+  325  git add pngfind.txt htmlfind.txt 
+  326  git commit -m "pngfinding&htmlfinding added"
+  327  git pull
+  328  git push origin master
+  329  mv pngfind.txt htmlfind.txt ~/Desktop/git/exercise/
+  332  mv pngfind.txt htmlfind.txt ~/Desktop/git/exercise/
+  333  cd git
+  335  git checkout master
+  336  git add pngfind.txt htmlfind.txt 
+  343  mv pngfind.txt htmlfind.txt ~/Desktop/git/exercise/
+  344  cd ~/Desktop/git/exercise/
+  345  git checkout master
+  346  git add pngfind.txt htmlfind.txt 
+  347  git commit -m "pngfing.html & htmlfing.html added"
+  348  git pull
+  349  git push origin master
+  367  mkdir git
+  368  cp ~Derek/index.html ~/Desktop/git
+  369  cp ~/Desktop/git/index.html ~/Desktop/git/index1.html
+  370  cp ~/Desktop/git/index.html ~/Desktop/git/index2.html
+  371  cp ~/Desktop/git/index.html ~/Desktop/git/index3.html
+  374  cp style.css js.js ~/Desktop/git
+  375  cd git
+  376  git clone https://github.com/imD3r3k/test.git
+  389  git add js img css
+  390  git commit -m "added"
+  391  git push origin master
+  394  cp index1.html index2.html index3.html ~/Desktop/git/test/
+  396  mv ~/Desktop/style.css ~/Desktop/git/test/css/
+  397  mv ~/Desktop/js.js ~/Desktop/git/test/js/
+  398  git status
+  400  git status
+  401  git add .
+  402  git commit - "added everything"
+  403  git commit -m "added everything"
+  404  git pull
+  405  git push origin master
+  407  git branch v0.1
+  408  git checkout branch v0.1
+  409  git check out v0.1
+  410  git checkout v0.1
+  411  git rm index2.html index3.html 
+  412  git commit -m "remove"
+  413  git push origin v0.1
+  414  git checkout master
+  418  git checkout v0.1
+  419  git merge master
+  420  find ~/Desktop/git/ -name *.png
+  426  cp -r ~/Desktop/git ~/Desktop/backup/
+  455  mkdir git
+  456  cd git
+  457  git clone https://github.com/imD3r3k/Exam.git
+  460  cp css index.html js js.js style.css ~/Desktop/git/Exam/
+  461  cp -r css js ~/Desktop/git/Exam/
+  462  cd ~/Desktop/git/Exam/
+  464  git add .
+  465  git commit -m "added everything"
+  466  git push origin master
+  470  cd ~/Desktop/git/Exam/
+  471  git branch v2.0
+  472  git checkout v2.0
+  473  git push origin v2.0
+  474  git checkout master
+  476  git add index.html 
+  477  git commit -m "added edited index.html"
+  478  git push origin master
+  479  git checkout v2.0
+  480  git merge master
+  481  git push origin master
+  482  git branch v3.0
+  483  git checkout v3.0
+  484  git push origin v3.0
+  485  git checkout master
+  487  git add index.html 
+  488  git commit -m "edited index.html again"
+  489  git push origin master
+  490  git check out v3.0
+  491  git checkout v3.0
+  492  git merge master
+  493  git checkout master
+  496  history | grep git > history.txt
+  497  git add head.txt tail.txt history.txt 
+  498  git commit -m "added txtfiles"
+  499  git push origin master
+  519  mkdir git
+  520  cd git
+  521  git clone https://github.com/imD3r3k/test1.git
+  525  cp -r css index.html js js.js style.css ~/Desktop/git/test1/
+  526  cd ~/Desktop/git/test1/
+  528  git add .
+  529  git commit -m "added files" 
+  530  git push origin master
+  534  cd ~/Desktop/git
+  536  git branch v2.0
+  537  git checkout v2.0
+  538  git push origin v2.0
+  539  git checkout master
+  541  git add index.html
+  542  git commit -m "edited"
+  543  git push origin master 
+  544  git checkout v2.0
+  545  git merge master
+  546  git push origin v2.0
+  547  git branch v3.0
+  548  git checkout v3.0
+  549  git push origin v3.0
+  550  git checkout master
+  552  git add index.html
+  553  git commit -m "added again"
+  554  git push origin master
+  555  git checkout v3.0
+  556  git merge master
+  557  git checkout master
+  560  history | grep git > history.txt
